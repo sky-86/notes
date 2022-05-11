@@ -1,0 +1,11 @@
+[package]
+name = "note"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+git2 = "0.14"
+time = "0.1"
+relative-path = "1.6.1"
